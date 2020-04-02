@@ -18,8 +18,6 @@ testCase_synthetic_fiveCircles.m
 
 ### Reference
 
-If you find the code is useful, please consider to cite:
-
 	@article{li2019semi,
   		title={Semi-supervised Learning on Graph with an Alternating Diffusion Process},
   		author={Li, Qilin and An, Senjian and Li, Ling and Liu, Wanquan},

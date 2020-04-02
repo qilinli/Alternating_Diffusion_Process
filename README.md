@@ -19,7 +19,7 @@ testCase_synthetic_fiveCircles.m
 ### Reference
 
 @article{li2019semi,
-  title={Semi-supervised Learning on Graph with an Alternating Diffusion Process},
+  title={Semi-supervised Learning on Graph with an Alternating Diffusion Process},\n
   author={Li, Qilin and An, Senjian and Li, Ling and Liu, Wanquan},
   journal={arXiv preprint arXiv:1902.06105},
   year={2019}
